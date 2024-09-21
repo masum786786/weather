@@ -1,0 +1,159 @@
+[
+    {
+      "current": {
+        "city": "London",
+        "temp": 288.15,
+        "weather": [{ "description": "overcast clouds", "icon": "04d" }]
+      },
+      "daily": [
+        {
+          "dt": 1632859200,
+          "temp": { "max": 290.15, "min": 284.15 },
+          "weather": [{ "icon": "04d" }]
+        },
+        {
+          "dt": 1632945600,
+          "temp": { "max": 289.15, "min": 283.15 },
+          "weather": [{ "icon": "04d" }]
+        },
+        {
+          "dt": 1633032000,
+          "temp": { "max": 291.15, "min": 285.15 },
+          "weather": [{ "icon": "04d" }]
+        },
+        {
+          "dt": 1633118400,
+          "temp": { "max": 292.15, "min": 286.15 },
+          "weather": [{ "icon": "04d" }]
+        },
+        {
+          "dt": 1633204800,
+          "temp": { "max": 290.15, "min": 284.15 },
+          "weather": [{ "icon": "04d" }]
+        },
+        {
+          "dt": 1633291200,
+          "temp": { "max": 289.15, "min": 283.15 },
+          "weather": [{ "icon": "04d" }]
+        }
+      ]
+    },
+    {
+      "current": {
+        "city": "Paris",
+        "temp": 292.15,
+        "weather": [{ "description": "light rain", "icon": "10d" }]
+      },
+      "daily": [
+        {
+          "dt": 1632859200,
+          "temp": { "max": 294.15, "min": 290.15 },
+          "weather": [{ "icon": "10d" }]
+        },
+        {
+          "dt": 1632945600,
+          "temp": { "max": 293.15, "min": 289.15 },
+          "weather": [{ "icon": "10d" }]
+        },
+        {
+          "dt": 1633032000,
+          "temp": { "max": 295.15, "min": 291.15 },
+          "weather": [{ "icon": "10d" }]
+        },
+        {
+          "dt": 1633118400,
+          "temp": { "max": 296.15, "min": 292.15 },
+          "weather": [{ "icon": "10d" }]
+        },
+        {
+          "dt": 1633204800,
+          "temp": { "max": 294.15, "min": 288.15 },
+          "weather": [{ "icon": "10d" }]
+        },
+        {
+          "dt": 1633291200,
+          "temp": { "max": 295.15, "min": 290.15 },
+          "weather": [{ "icon": "10d" }]
+        }
+      ]
+    },
+    {
+      "current": {
+        "city": "Berlin",
+        "temp": 291.15,
+        "weather": [{ "description": "scattered clouds", "icon": "03d" }]
+      },
+      "daily": [
+        {
+          "dt": 1632859200,
+          "temp": { "max": 293.15, "min": 288.15 },
+          "weather": [{ "icon": "03d" }]
+        },
+        {
+          "dt": 1632945600,
+          "temp": { "max": 292.15, "min": 287.15 },
+          "weather": [{ "icon": "03d" }]
+        },
+        {
+          "dt": 1633032000,
+          "temp": { "max": 294.15, "min": 289.15 },
+          "weather": [{ "icon": "03d" }]
+        },
+        {
+          "dt": 1633118400,
+          "temp": { "max": 295.15, "min": 290.15 },
+          "weather": [{ "icon": "03d" }]
+        },
+        {
+          "dt": 1633204800,
+          "temp": { "max": 293.15, "min": 288.15 },
+          "weather": [{ "icon": "03d" }]
+        },
+        {
+          "dt": 1633291200,
+          "temp": { "max": 294.15, "min": 289.15 },
+          "weather": [{ "icon": "03d" }]
+        }
+      ]
+    },
+    {
+      "current": {
+        "city": "Madrid",
+        "temp": 295.15,
+        "weather": [{ "description": "clear sky", "icon": "01d" }]
+      },
+      "daily": [
+        {
+          "dt": 1632859200,
+          "temp": { "max": 299.15, "min": 293.15 },
+          "weather": [{ "icon": "01d" }]
+        },
+        {
+          "dt": 1632945600,
+          "temp": { "max": 297.15, "min": 291.15 },
+          "weather": [{ "icon": "01d" }]
+        },
+        {
+          "dt": 1633032000,
+          "temp": { "max": 298.15, "min": 292.15 },
+          "weather": [{ "icon": "01d" }]
+        },
+        {
+          "dt": 1633118400,
+          "temp": { "max": 299.15, "min": 293.15 },
+          "weather": [{ "icon": "01d" }]
+        },
+        {
+          "dt": 1633204800,
+          "temp": { "max": 296.15, "min": 290.15 },
+          "weather": [{ "icon": "01d" }]
+        },
+        {
+          "dt": 1633291200,
+          "temp": { "max": 297.15, "min": 291.15 },
+          "weather": [{ "icon": "01d" }]
+        }
+      ]
+    }
+  ]
+  
